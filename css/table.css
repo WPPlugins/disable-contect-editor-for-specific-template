@@ -1,0 +1,35 @@
+/* Generic Styling, for Desktops/Laptops 
+	*/
+	.temp_css { 
+		
+		border-collapse: collapse; 
+	}
+	/* Zebra striping */
+	.temp_css tr:nth-of-type(odd) { 
+		background: #eee; 
+	}
+	
+	.temp_css td { 
+		padding: 9px; 
+		border: 1px solid #ccc; 
+		text-align: left; 
+	}
+	.temp_css th { 
+		padding: 9px; 
+		border: 1px solid #ccc; 
+		text-align: left; 
+	}
+       
+       .develop2 {
+    bottom: -55px;
+    color: #0073aa;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 700;
+    left: 0;
+    position: absolute;
+}
+.develop2 a {
+    color: #fa5f66;
+  
+}
